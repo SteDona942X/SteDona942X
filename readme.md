@@ -58,11 +58,7 @@ _Designing and implementing..._
 ### Operational Projects
 _*Each repository implements a specialized framework from my production-grade prompt library.*_
 
-* **[Agentic Prompt Archiver & Analytics Suite](https://github.com/SteDona942X/Agentic-Prompt-Archiver-&-Analytics-Suite)** – *AI Automation:* Automated Telegram-to-Notion prompt archiving system;
-* **[Code Architect Evaluator](https://github.com/SteDona942X/code-architect-evaluator)** – *System Design:* Comparative LLM scoring framework for high-quality code generation;
-* **[B2B Research Scraper](https://github.com/SteDona942X/b2b-research-scraper)** – *Strategy:* Automated market monitoring and competitive intelligence for SMBs;
-* **[Socratic-Junghian Psychometrical Analysis](https://github.com/SteDona942X/socratic-jung-analyst)** – *Hybrid Tech:* Agentic dialogue system for deep psychological and context analysis;
-* **[SMB Opportunity Mapper](https://github.com/SteDona942X/smb-opportunity-mapper)** – *Business:* Tree-of-Thought framework for market entry and tech-stack selection.
+* **Coming soon...**
 
 ---
 
