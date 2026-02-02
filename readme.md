@@ -81,6 +81,4 @@ _*Each repository implements a specialized framework from my production-grade pr
 📍 Based in Europe | 🌍 Available for international projects & remote collaboration
 
 ---
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuo-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
+
