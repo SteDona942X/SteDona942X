@@ -76,12 +76,14 @@ _*Each repository implements a specialized framework from my production-grade pr
   <img src="https://img.shields.io/badge/Portuguese-yellow?style=flat-square" />
 </p>
 
+
 **System Architect | AI Automation Specialist | Multilingual Developer** | **Tech Sales&Marketing**
 ***
 
 
 A few shots of my mind were represented in the previous lines, merging my soft skills (**problem solving**, **analytical thinking**, **creative brainstorming**) with tech-oriented applicative methods (**Prompt Engineering**, **Python**, **modular frameworks**, and **business intelligence**). 
 A natural and technical approach to photography, that translates into close attention to detail, helps me to enhance UX/UI experience for both users and clients, driving to optimised solutions design and customer retention.
+
 
 
 
