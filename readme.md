@@ -89,5 +89,6 @@ A natural and technical approach to photography, that translates into close atte
 
 📍 Based in Europe | 🌍 Available for international projects & remote collaboration
 
+stefan.donadio@gmail.com
 ---
 
