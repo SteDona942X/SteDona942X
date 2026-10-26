@@ -15,7 +15,7 @@ The goal is to apply my background in Business Operations, Project Management, C
 * **Systemic Analysis (History & Geopolitics)**: Understanding historical patterns and geopolitical analysis to build scalable, secure and efficient AI systems to achieve global context and market variations in EU, US and Brazil;
 
 
----
+-------
 
 
 ### Tech & Interpersonal Skills
@@ -39,7 +39,7 @@ The goal is to apply my background in Business Operations, Project Management, C
     * **Product Management Techniques**: Bridging technical architecture with business profitability.
  
   
----
+-------
 
 ### What I do
 I implement effective workflows to generate secure and reliable solutions, driving successful time saving results, by means of:
@@ -50,7 +50,7 @@ I implement effective workflows to generate secure and reliable solutions, drivi
 * **Full-stack Python development** with focus on legal compliance, production-grade reliability, both for SMBs and Enterprise, and CyberSecurity principles;
 * **Business Process Optimization** for sales, marketing, and admin in EU & Brazil markets, to amplify resonance.
 
----
+-------
 
 ### Systems&Solutions 
 * **System Design & Prompt Engineering**: Advanced context engineering techniques;
@@ -59,14 +59,14 @@ I implement effective workflows to generate secure and reliable solutions, drivi
 * **Strategic Business Intelligence**: Opportunity mapping and ROI analysis for international markets;
 * **Multilingual Technical Communication**: Bridging tech and business in 4 languages.
 
----
+-------
 
 ### Operational Projects
 _*Each repository implements a specialized framework from my production-grade prompt library.*_
 
 * **Coming soon...**
 
----
+-------
 
 ### 🌍 Multilingual Reach
 <p align="left">
